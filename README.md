@@ -13,4 +13,4 @@ A 16y/o FullStack Developer 🎯 from Germany 🇩🇪.
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/react.png"></code>
 
-![Prixix' github stats](https://github-readme-stats.vercel.app/api?username=Prixix&show_icons=true&hide=["issues"])
+![Prixix' github stats](https://github-readme-stats.vercel.app/api?username=Prixix&show_icons=true)
