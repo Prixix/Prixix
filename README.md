@@ -8,7 +8,7 @@ A 16y/o FullStack Developer 🎯 from Germany 🇩🇪.
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/c%23.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/mongodb.pngg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/react.png"></code>
