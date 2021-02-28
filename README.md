@@ -3,7 +3,7 @@ A 16y/o FullStack Developer 🎯 from Germany 🇩🇪.
 - 🌱 I’m currently visiting a vocational school with computers in focus.
 - 📫 You can reach me on [Instagram](https://instagram.com/_prixix) or [Twitter](https://twitter.com/xPrixix)
 
-**Programming skills:**  
+**Coding skills:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/c%23.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/java.png"></code>
