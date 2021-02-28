@@ -18,4 +18,3 @@ A 16y/o FullStack Developer 🎯 from Germany 🇩🇪.
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/html.png"></code>
 
 ![Prixix' github stats](https://github-readme-stats.vercel.app/api?username=Prixix&show_icons=true)
-[![Spotify](https://spotify-readme-prixix.vercel.app/api/spotify)](https://open.spotify.com/user/prixixhd)
