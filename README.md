@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there, I'm Paul 😇
+A 16y/o FullStack Developer 🎯 from Germany 🇩🇪.
+- 🌱 I’m currently visiting a vocational school with computers in focus.
+- 📫 You can reach me on [Instagram](https://instagram.com/_prixix) or [Twitter](https://twitter.com/xPrixix)
 
-<!--
-**Prixix/Prixix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:**  
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/c%23.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/mongodb.pngg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/react.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Prixix' github stats](https://github-readme-stats.vercel.app/api?username=Prixix&show_icons=true&hide=["issues"])
