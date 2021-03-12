@@ -1,5 +1,5 @@
 ### Hello there, I'm Paul 😇
-A 16y/o FullStack Developer 🎯 from Germany 🇩🇪.
+A 16y/o Developer 🎯 from Germany 🇩🇪.
 - 🌱 I’m currently visiting a vocational school with computers in focus.
 - 📫 You can reach me on [Instagram](https://instagram.com/_prixix) or [Twitter](https://twitter.com/xPrixix)
 
