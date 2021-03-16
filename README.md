@@ -18,4 +18,4 @@ A 16y/o Developer 🎯 from Germany 🇩🇪.
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Prixix/Prixix/main/python-logo.png"></code>
 
-[![Prixix' github stats](https://raw.githubusercontent.com/Prixix/GitHub-Stats/48e30a17ba64880c182323da531fdf018c37d02b/generated/overview.svg)](https://github.com/Prixix)
+[![Prixix' github stats](https://github.com/Prixix/GitHub-Stats/blob/master/generated/overview.svg)](https://github.com/Prixix)
